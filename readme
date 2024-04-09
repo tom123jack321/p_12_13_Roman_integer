@@ -1,0 +1,36 @@
+Static std::map applied to LeetCode problems "13. Roman to Integer" and "12. Integer to Roman"
+// My solution to LeetCode problem "13. Roman to Integer"
+// https://leetcode.com/problems/roman-to-integer/description/?envType=study-plan-v2&envId=top-interview-150
+// Submited to LeetCode and passed all tests with 0ms runtime (Beats 100.00% of users with C++) and 10.7MB memory (Beats 73.96% users with C++)
+
+// My solution to LeetCode problem "12. Integer to Roman"
+// https://leetcode.com/problems/integer-to-roman/description/?envType=study-plan-v2&envId=top-interview-150
+// Submited to LeetCode and passed all tests with 3ms runtime (Beats 87.21% of users with C++) and 9.88MB memory (Beats 81.28% of users with C++)
+
+
+1. Description 
+See https://leetcode.com/problems/roman-to-integer/description/?envType=study-plan-v2&envId=top-interview-150 
+and https://leetcode.com/problems/integer-to-roman/description/?envType=study-plan-v2&envId=top-interview-150. 
+The two problems are marked "Easy" and "Medium" respectively. 
+Actually, they are both quite easy.
+
+2. My solution
+Use static map.
+
+3. Complexity
+The time Complexity of solution to problem "13. Roman to Integer" is O(n), n being the length of Roman string. 
+The time Complexity of solution to problem "12. Integer to Roman" is O(1). 
+
+
+4. Results
+The solution to problem "13. Roman to Integer" was submitted to LeetCode and passed all tests with 0ms runtime (Beats 100.00% of users with C++) and 10.7MB memory (Beats 73.96% users with C++). 
+The solution to problem "12. Integer to Roman" passed all tests with 3ms runtime (Beats 87.21% of users with C++) and 9.88MB memory (Beats 81.28% of users with C++).
+
+5. Troubleshooting
+I share this for fun with no warranty absolutely. Should anyone find any bugs, please email me.
+
+6. Author
+Yiyi HUANG (yhuangcm@connect.ust.hk)
+
+7. License
+GPL-3.0
